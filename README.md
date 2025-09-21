@@ -159,6 +159,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Live Demo**: [View on Vercel](https://canvas-root.vercel.app) | **Repository**: [GitHub](https://github.com/maxwarzet/canvas-root)
+**Live Demo**: [View on Vercel](https://canvas-arrow-blur.vercel.app/) | **Repository**: [GitHub](https://github.com/maxwarzet/canvas-root)
 
 Made with ❤️ by [maxwarzet](https://github.com/maxwarzet)
